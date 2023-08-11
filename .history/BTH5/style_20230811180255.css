@@ -1,0 +1,30 @@
+.container {
+  width: 600px;
+  height: auto;
+  background-color: wheat;
+  padding: 10px;
+  float: left;
+  border-radius: 5px;
+}
+img{
+  width: 40%;
+  border-radius: 5px;
+  float: left;
+}
+.profile{
+
+  width: 60%;
+  float: left;
+  
+}
+.name{
+  margin: 0 40px;
+  font-size: 30px;
+}
+small{
+  font-size: 15px;
+  margin: 0 40px;
+}
+.list{
+  list-style-type: none;
+}

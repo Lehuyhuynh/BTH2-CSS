@@ -1,0 +1,23 @@
+.head{
+  background-color: chartreuse;
+  padding: 20px 0;
+  margin-bottom: 5px;
+}
+h2{
+  text-align: center;
+  color: white;
+}
+p{
+  text-align: center;
+  color: white;
+}
+.head-link{
+  background-color: black;
+}
+.head-link p{
+  display: inline;
+  margin: 8px;
+}
+.left{
+  border: 1px solid ;
+}

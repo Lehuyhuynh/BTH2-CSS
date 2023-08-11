@@ -1,0 +1,10 @@
+.section{
+  padding: ;
+}
+.row{
+  display: flex;
+  width: 100%;
+}
+.card{
+  flex: 30%;
+}

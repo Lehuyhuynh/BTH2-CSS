@@ -1,0 +1,12 @@
+.container {
+  width: 500px;
+  height: auto;
+  background-color: wheat;
+  padding: 10px;
+  float: left;
+  border-radius: 5px;
+}
+img{
+  width: 40%;
+  border-radius: ;
+}

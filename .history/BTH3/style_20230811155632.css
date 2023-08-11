@@ -1,0 +1,7 @@
+.row{
+  display: flex;
+  flex: 100%;
+}
+.card{
+  flex: 33%;
+}

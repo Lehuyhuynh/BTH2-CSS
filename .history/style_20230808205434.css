@@ -1,0 +1,12 @@
+.head, .head-link, .main, .footer{
+  border: 1px solid black;
+  margin-bottom: 4px;
+}
+.left,.right, .center{
+  border: 1px solid black;
+}
+.left{
+  width: 100px;
+  fl
+
+}

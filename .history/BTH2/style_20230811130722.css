@@ -1,0 +1,8 @@
+.row{
+  display: flex;
+}
+
+.side{
+  flex: 30%;
+  background-color: ;
+}

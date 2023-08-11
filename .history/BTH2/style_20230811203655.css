@@ -1,0 +1,24 @@
+.row{
+  display: flex;
+}
+.head{
+  background-color: chartreuse;
+  color: white;
+  height: 100px;
+  text-align: center;
+}
+.side{
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+.main{
+  flex:70%;
+  background-color: white;
+  padding: 20px;
+}
+.fakeing{
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}

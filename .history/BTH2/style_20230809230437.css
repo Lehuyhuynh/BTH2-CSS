@@ -1,0 +1,15 @@
+.head{
+  background-color: chartreuse;
+  padding: 20px 0;
+}
+h2{
+  text-align: center;
+  color: white;
+}
+p{
+  text-align: center;
+  color: white;
+}
+.head-link{
+  background-color: black;
+}

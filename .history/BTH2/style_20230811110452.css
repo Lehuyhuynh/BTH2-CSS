@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+.head{
+  background-color: chartreuse;
+  padding: 20px 0;
+  margin-bottom: 5px;
+}
+h2{
+  text-align: center;
+  color: white;
+}
+p{
+  text-align: center;
+  color: white;
+  
+}
+.head-link{
+  background-color: black;
+  display:;
+}
+.head-link p{
+  display: inline;
+  margin: 8px;
+}
+.left{
+  border: 1px solid wheat ;
+  border-radius: 5px;
+  float: left;
+  margin-top: 5px;
+  height: 100%;
+  width: 100px;
+}
+.footer{
+
+}
